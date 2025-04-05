@@ -51,14 +51,11 @@ https://wikinew.koskoros.ru/wiki/astrocricket/mono.m3u8|Referer=https://topembed
 #EXTINF:-1 group-title="USA" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/bbc-america.png",BBC America USA
 https://wikinew.koskoros.ru/wiki/ustvbbcamerica/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://topembed.pw
 
-#EXTINF:-1 group-title="UK" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/bbc-four.png",BBC Four UK
-https://wikinew.koskoros.ru/wiki/xbbc4/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://topembed.pw
+#EXTINF:-1 group-title="UK" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/bbc-news.png",BBC News 24 UK
+https://x4new.koskoros.ru/x4/bbcnews/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://topembed.pw
 
 #EXTINF:-1 group-title="UK" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/bbc-one.png",BBC One UK
 https://x4new.koskoros.ru/x4/xbbc1/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://topembed.pw
-
-#EXTINF:-1 group-title="UK" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/tvland-us.png",BBC Scotland UK
-https://wikinew.koskoros.ru/wiki/bbcscotland/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://topembed.pw
 
 #EXTINF:-1 group-title="UK" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/bbc-three.png",BBC Three UK
 https://wikinew.koskoros.ru/wiki/xbbc3/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://topembed.pw
@@ -71,9 +68,6 @@ https://wikinew.koskoros.ru/wiki/ustvbet/mono.m3u8|Referer=https://topembed.pw/|
 
 #EXTINF:-1 group-title="USA" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/btn-us.png",BTN USA
 https://wikinew.koskoros.ru/wiki/ustvbtn/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://topembed.pw
-
-#EXTINF:-1 group-title="USA" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/bally-sports-detroit.png",Bally Sports Detroit USA
-https://wikinew.koskoros.ru/wiki/ballysportsdetroit/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://topembed.pw
 
 #EXTINF:-1 group-title="USA" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/bally-sports-west.png",Bally Sports East USA
 https://wikinew.koskoros.ru/wiki/ballysportssoutheast/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://topembed.pw
@@ -194,9 +188,6 @@ https://top2new.koskoros.ru/top2/premium401/mono.m3u8|Referer=https://topembed.p
 
 #EXTINF:-1 group-title="ROMANIA" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/digi-sport-3.png",Digi Sport 3 ROMANIA
 https://top2new.koskoros.ru/top2/premium402/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://topembed.pw
-
-#EXTINF:-1 group-title="ROMANIA" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/digi-sport-4.png",Digi Sport 4 ROMANIA
-https://top2new.koskoros.ru/top2/premium403/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://topembed.pw
 
 #EXTINF:-1 group-title="ECUADOR" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/directv-ecuador.png",Direc TV ECUADOR
 https://wikinew.koskoros.ru/wiki/directv/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://topembed.pw
@@ -436,7 +427,7 @@ https://wikinew.koskoros.ru/wiki/nbcsboston/mono.m3u8|Referer=https://topembed.p
 https://wikinew.koskoros.ru/wiki/nbcscali/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://topembed.pw
 
 #EXTINF:-1 group-title="USA" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/nbc10-philadelphia.png",NBCSPhiladelphia USA
-https://wikinew.koskoros.ru/wiki/nbcphiladelphia/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://topembed.pw
+https://x4new.koskoros.ru/x4/nbcphiladelphia/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://topembed.pw
 
 #EXTINF:-1 group-title="USA" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/nfl-network-usa.png",NFL Network USA
 https://hztnew.koskoros.ru/hzt/eplayerNFLNetwork/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://topembed.pw
@@ -519,14 +510,11 @@ https://wikinew.koskoros.ru/wiki/premium585/mono.m3u8|Referer=https://topembed.p
 #EXTINF:-1 group-title="ROMANIA" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/prima-tv-ro.png",Prima TV ROMANIA
 https://wikinew.koskoros.ru/wiki/premium843/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://topembed.pw
 
-#EXTINF:-1 group-title="ROMANIA" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/pro-tv-ro.png",Pro TV ROMANIA
-https://top2new.koskoros.ru/top2/protv/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://topembed.pw
-
 #EXTINF:-1 group-title="FRANCE" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/rmc-sport-1-fr.png",RMC Sport 1 FRANCE
 https://wikinew.koskoros.ru/wiki/rmc1france/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://topembed.pw
 
 #EXTINF:-1 group-title="IRELAND" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/rte-one-uk.png",RTE One IRELAND
-https://wikinew.koskoros.ru/wiki/rteoneir/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://topembed.pw
+https://x4new.koskoros.ru/x4/rteoneir/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://topembed.pw
 
 #EXTINF:-1 group-title="IRELAND" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/rte-two.png",RTE Two IRELAND
 https://wikinew.koskoros.ru/wiki/rtetwoir/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://topembed.pw
@@ -548,9 +536,6 @@ https://wikinew.koskoros.ru/wiki/eplayerSECNetwork/mono.m3u8|Referer=https://top
 
 #EXTINF:-1 group-title="USA" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/showtime-usa.png",Showtime USA
 https://wikinew.koskoros.ru/wiki/ustvshowtime/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://topembed.pw
-
-#EXTINF:-1 group-title="UK" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/sky-discovery-hd-uk.png",Sky Discovery HD UK
-https://wikinew.koskoros.ru/wiki/skydiscoveryhd/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://topembed.pw
 
 #EXTINF:-1 group-title="GERMANY" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/sky-sport-1-de.png",Sky Sport 1 GERMANY
 https://x4new.koskoros.ru/x4/eplayerSky_Sport_1_HD/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://topembed.pw
@@ -588,9 +573,6 @@ https://x4new.koskoros.ru/x4/eplayerSky_Sport_6_HD/mono.m3u8|Referer=https://top
 #EXTINF:-1 group-title="NEWZEALAND" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/sky-sport-6-nz.png",Sky Sport 6 NEWZEALAND
 https://x4new.koskoros.ru/x4/skynz6/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://topembed.pw
 
-#EXTINF:-1 group-title="GERMANY" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/sky-sport-1-de.png",Sky Sport 7 GERMANY
-https://x4new.koskoros.ru/x4/eplayerSky_Sport_7_HD/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://topembed.pw
-
 #EXTINF:-1 group-title="NEWZEALAND" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/sky-sport-7-nz.png",Sky Sport 7 NEWZEALAND
 https://x4new.koskoros.ru/x4/skynz7/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://topembed.pw
 
@@ -620,9 +602,6 @@ https://x4new.koskoros.ru/x4/eplayerSky_Sport_Bundesliga_4_HD/mono.m3u8|Referer=
 
 #EXTINF:-1 group-title="GERMANY" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/sky-sport-bundesliga-1-de.png",Sky Sport Bundesliga 6 GERMANY
 https://x4new.koskoros.ru/x4/eplayerSky_Sport_Bundesliga_6_HD/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://topembed.pw
-
-#EXTINF:-1 group-title="GERMANY" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/sky-sport-bundesliga-7-de.png",Sky Sport Bundesliga 7 GERMANY
-https://x4new.koskoros.ru/x4/eplayerSky_Sport_Bundesliga_7_HD/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://topembed.pw
 
 #EXTINF:-1 group-title="NEWZEALAND" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/sky-sport-select-nz.png",Sky Sport Select NEWZEALAND
 https://x4new.koskoros.ru/x4/skynz_select/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://topembed.pw
@@ -658,7 +637,7 @@ https://top2new.koskoros.ru/top2/eplayerskymain2/mono.m3u8|Referer=https://topem
 https://x4new.koskoros.ru/x4/skymix/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://topembed.pw
 
 #EXTINF:-1 group-title="UK" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/sky-sports-news-uk.png",Sky Sports News UK
-https://wikinew.koskoros.ru/wiki/skysportsnews/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://topembed.pw
+https://x4new.koskoros.ru/x4/skysportsnews/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://topembed.pw
 
 #EXTINF:-1 group-title="UK" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/sky-sports-premier-league-uk.png",Sky Sports Premier League UK
 https://top2new.koskoros.ru/top2/eplayerSKYPL/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://topembed.pw

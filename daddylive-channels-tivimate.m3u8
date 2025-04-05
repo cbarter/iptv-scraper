@@ -279,9 +279,6 @@ https://ddy6new.newkso.ru/ddy6/premium487/mono.m3u8|Referer=https://webxzplay.cf
 #EXTINF:-1 tvg-id="CANAL+.Sport.2.pl" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/canal-plus-sport-2-poland.png" group-title="POLAND",Canal+ Sport 2 Poland
 https://ddy6new.newkso.ru/ddy6/premium73/mono.m3u8|Referer=https://webxzplay.cfd/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://webxzplay.cfd
 
-#EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/canal-plus-sport-4-afrique.png" group-title="AFRICA",Canal+ Sport 4 Afrique
-https://ddy6new.newkso.ru/ddy6/premium489/mono.m3u8|Referer=https://webxzplay.cfd/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://webxzplay.cfd
-
 #EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/canal-plus-sport-5-afrique.png" group-title="AFRICA",Canal+ Sport 5 Afrique
 https://ddy6new.newkso.ru/ddy6/premium490/mono.m3u8|Referer=https://webxzplay.cfd/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://webxzplay.cfd
 
@@ -462,9 +459,6 @@ https://top2new.newkso.ru/top2/premium401/mono.m3u8|Referer=https://webxzplay.cf
 #EXTINF:-1 tvg-id="Digi.Sport.3.ro" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/digi-sport-3.png" group-title="ROMANIA",Digi Sport 3 Romania
 https://top2new.newkso.ru/top2/premium402/mono.m3u8|Referer=https://webxzplay.cfd/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://webxzplay.cfd
 
-#EXTINF:-1 tvg-id="Digi.Sport.4.ro" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/digi-sport-4.png" group-title="ROMANIA",Digi Sport 4 Romania
-https://top2new.newkso.ru/top2/premium403/mono.m3u8|Referer=https://webxzplay.cfd/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://webxzplay.cfd
-
 #EXTINF:-1 tvg-id="Discovery.Channel.(US).-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/discovery-channel.png" group-title="UNITED STATES",Discovery Channel
 https://zekonew.newkso.ru/zeko/premium313/mono.m3u8|Referer=https://webxzplay.cfd/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://webxzplay.cfd
 
@@ -593,9 +587,6 @@ https://windnew.newkso.ru/wind/premium879/mono.m3u8|Referer=https://webxzplay.cf
 
 #EXTINF:-1 tvg-id="Eurosport.2.pl" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/eurosport-2.png" group-title="POLAND",EuroSport 2 Poland
 https://windnew.newkso.ru/wind/premium58/mono.m3u8|Referer=https://webxzplay.cfd/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://webxzplay.cfd
-
-#EXTINF:-1 tvg-id="Eurosport.2.es" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/eurosport-2.png" group-title="SPAIN",EuroSport 2 Spain
-https://ddy6new.newkso.ru/ddy6/premium525/mono.m3u8|Referer=https://webxzplay.cfd/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://webxzplay.cfd
 
 #EXTINF:-1 tvg-id="Eurosport.bg" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/eurosport-1.png" group-title="BULGARIA",Eurosport 1 Bulgaria
 https://windnew.newkso.ru/wind/premium469/mono.m3u8|Referer=https://webxzplay.cfd/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://webxzplay.cfd
@@ -954,17 +945,11 @@ https://dokko1new.newkso.ru/dokko1/premium779/mono.m3u8|Referer=https://webxzpla
 #EXTINF:-1 tvg-id="MAXSport2(src01).bg" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/max-sport-2-bulgaria.png" group-title="BULGARIA",Max Sport 2 Bulgaria
 https://windnew.newkso.ru/wind/premium473/mono.m3u8|Referer=https://webxzplay.cfd/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://webxzplay.cfd
 
-#EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/maxsport2-crotia.png" group-title="CROATIA",Max Sport 2 Croatia
-https://dokko1new.newkso.ru/dokko1/premium780/mono.m3u8|Referer=https://webxzplay.cfd/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://webxzplay.cfd
-
 #EXTINF:-1 tvg-id="MAXSport3(src01).bg" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/max-sport-3-bulgaria.png" group-title="BULGARIA",Max Sport 3 Bulgaria
 https://ddy6new.newkso.ru/ddy6/premium474/mono.m3u8|Referer=https://webxzplay.cfd/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://webxzplay.cfd
 
 #EXTINF:-1 tvg-id="MAXSport4(src01).bg" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/max-sport-4-bulgaria.png" group-title="BULGARIA",Max Sport 4 Bulgaria
 https://windnew.newkso.ru/wind/premium475/mono.m3u8|Referer=https://webxzplay.cfd/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://webxzplay.cfd
-
-#EXTINF:-1 tvg-id="Monumental.Sports.Network.us" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/monumental-sports-network.png" group-title="UNITED STATES",Monumental Sports Network
-https://nfsnew.newkso.ru/nfs/premium924/mono.m3u8|Referer=https://webxzplay.cfd/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://webxzplay.cfd
 
 #EXTINF:-1 tvg-id="Motor.Trend.HD.us" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/motor-trend.png" group-title="UNITED STATES",Motor Trend
 https://dokko1new.newkso.ru/dokko1/premium661/mono.m3u8|Referer=https://webxzplay.cfd/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://webxzplay.cfd
@@ -998,9 +983,6 @@ https://zekonew.newkso.ru/zeko/premium437/mono.m3u8|Referer=https://webxzplay.cf
 
 #EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/movistar-supercopa.png" group-title="SPAIN",Movistar Supercopa de Espa�a
 https://zekonew.newkso.ru/zeko/premium437/mono.m3u8|Referer=https://webxzplay.cfd/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://webxzplay.cfd
-
-#EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/mundotoro-tv.png" group-title="SPAIN",Mundotoro TV Spain
-https://ddy6new.newkso.ru/ddy6/premium749/mono.m3u8|Referer=https://webxzplay.cfd/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://webxzplay.cfd
 
 #EXTINF:-1 tvg-id="NBA.TV.USA.us" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/nba-tv-usa.png" group-title="UNITED STATES",NBA TV USA
 https://zekonew.newkso.ru/zeko/premium404/mono.m3u8|Referer=https://webxzplay.cfd/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://webxzplay.cfd
@@ -1148,9 +1130,6 @@ https://dokko1new.newkso.ru/dokko1/premium564/mono.m3u8|Referer=https://webxzpla
 
 #EXTINF:-1 tvg-id="Polsat.News.pl" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/polsat-news-poland.png" group-title="POLAND",Polsat News Poland
 https://windnew.newkso.ru/wind/premium443/mono.m3u8|Referer=https://webxzplay.cfd/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://webxzplay.cfd
-
-#EXTINF:-1 tvg-id="Polsat.pl" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/polsat-poland.png" group-title="POLAND",Polsat Poland
-https://dokko1new.newkso.ru/dokko1/premium562/mono.m3u8|Referer=https://webxzplay.cfd/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://webxzplay.cfd
 
 #EXTINF:-1 tvg-id="Polsat.Sport.Extra.pl" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/polsat-sport-extra-poland.png" group-title="POLAND",Polsat Sport Extra Poland
 https://windnew.newkso.ru/wind/premium50/mono.m3u8|Referer=https://webxzplay.cfd/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://webxzplay.cfd
@@ -1315,7 +1294,7 @@ https://zekonew.newkso.ru/zeko/premium373/mono.m3u8|Referer=https://webxzplay.cf
 https://nfsnew.newkso.ru/nfs/premium294/mono.m3u8|Referer=https://webxzplay.cfd/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://webxzplay.cfd
 
 #EXTINF:-1 tvg-id="Showtime.2.-.Eastern.us" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/showtime-2-usa.png" group-title="UNITED STATES",Showtime 2 USA (SHO2) USA
-https://windnew.newkso.ru/wind/premium792/mono.m3u8|Referer=https://webxzplay.cfd/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://webxzplay.cfd
+https://zekonew.newkso.ru/zeko/premium792/mono.m3u8|Referer=https://webxzplay.cfd/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://webxzplay.cfd
 
 #EXTINF:-1 tvg-id="Showtime.Extreme.-.Eastern.us" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/showtime-extreme-usa.png" group-title="UNITED STATES",Showtime Extreme USA
 https://nfsnew.newkso.ru/nfs/premium794/mono.m3u8|Referer=https://webxzplay.cfd/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://webxzplay.cfd
@@ -1860,9 +1839,6 @@ https://dokko1new.newkso.ru/dokko1/premium452/mono.m3u8|Referer=https://webxzpla
 #EXTINF:-1 tvg-id="TVP.Sport.pl" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/tvp-sport-poland.png" group-title="POLAND",TVP Sport Poland
 https://windnew.newkso.ru/wind/premium128/mono.m3u8|Referer=https://webxzplay.cfd/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://webxzplay.cfd
 
-#EXTINF:-1 tvg-id="TVP.1.pl" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/tvp1-poland.png" group-title="POLAND",TVP1 Poland
-https://dokko1new.newkso.ru/dokko1/premium560/mono.m3u8|Referer=https://webxzplay.cfd/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://webxzplay.cfd
-
 #EXTINF:-1 tvg-id="TVP.2.pl" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/tvp2-poland.png" group-title="POLAND",TVP2 Poland
 https://dokko1new.newkso.ru/dokko1/premium561/mono.m3u8|Referer=https://webxzplay.cfd/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://webxzplay.cfd
 
@@ -1958,9 +1934,6 @@ https://dokko1new.newkso.ru/dokko1/premium659/mono.m3u8|Referer=https://webxzpla
 
 #EXTINF:-1 tvg-id="VTV.+.HD.uy" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/vtvplus-uruguay.png" group-title="URUGUAY",VTV+ Uruguay
 https://windnew.newkso.ru/wind/premium391/mono.m3u8|Referer=https://webxzplay.cfd/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://webxzplay.cfd
-
-#EXTINF:-1 tvg-id="Veronica.nl" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/veronica-nl.png" group-title="NETHERLANDS",Veronica NL Netherlandss
-https://zekonew.newkso.ru/zeko/premium378/mono.m3u8|Referer=https://webxzplay.cfd/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://webxzplay.cfd
 
 #EXTINF:-1 tvg-id="Viaplay1(src01).uk" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/viaplay-sports-1-uk.png" group-title="UNITED KINGDOM",Viaplay Sports 1 UK
 https://windnew.newkso.ru/wind/premium451/mono.m3u8|Referer=https://webxzplay.cfd/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://webxzplay.cfd
