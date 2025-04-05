@@ -6192,17 +6192,6 @@
             "#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
         ]
     },
-    "Sportsnet Pacific": {
-        "group_title": "UNITED STATES",
-        "tvg_id": "Sportsnet.(Pacific).ca",
-        "tvg_logo": "https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/sportsnet-pacific.png",
-        "stream_url": "https://windnew.koskoros.ru/wind/premium405/mono.m3u8",
-        "options": [
-            "#EXTVLCOPT:http-referrer=https://pkpakiplay.xyz/",
-            "#EXTVLCOPT:http-origin=https://pkpakiplay.xyz",
-            "#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
-        ]
-    },
     "Sportsnet West": {
         "group_title": "UNITED STATES",
         "tvg_id": "Sportsnet.(West).-.Satellite/Digital.ca",
