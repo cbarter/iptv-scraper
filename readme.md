@@ -12,6 +12,7 @@
 - ```https://iptv-scraper-re.vercel.app/aesport```
 - ```https://iptv-scraper-re.vercel.app/nizarstream```
 - ```https://iptv-scraper-re.vercel.app/streameast```
+- ```https://iptv-scraper-re.vercel.app/daddylive/channels```
 
 
 ### Recommended Players
